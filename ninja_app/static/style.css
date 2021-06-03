@@ -1,0 +1,58 @@
+.container {
+    background-color: #77919d;
+    min-height: 150px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color: #274c5e;
+}
+
+.header {
+    text-align: center;
+}
+
+.goldbox {
+    margin-top: 15px;
+    width: 75px;
+}
+
+.cards {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    color: #7f9eb2;
+}
+
+#cavepic {
+    height: 175px;
+    border-bottom: 2px solid black;
+}
+
+#farmpic {
+    height: 175px;
+    border-bottom: 2px solid black;
+}
+
+#housepic {
+    height: 175px;
+    border-bottom: 2px solid black;
+}
+
+#casinopic {
+    height: 175px;
+    border-bottom: 2px solid black;
+}
+
+.label {
+    margin: 20px;
+}
+
+.form {
+    margin-bottom: 20px;
+}
+
+.blue {
+    margin: 0px;
+    padding: 0px;
+}
+
